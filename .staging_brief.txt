@@ -1,7 +1,0 @@
-One Sentence for a Traveler from 1800
-
-Entrants write one sentence of at most 200 characters explaining the modern internet to someone arriving from 1800. A judge model compares the sentences two at a time and the best ranked win.
-
-Entrants write a single sentence, at most 200 characters, that explains the modern internet to a time traveler who has just stepped out of the year 1800. The sentence has to stand alone: no words coined after the traveler's time, no list of features, just a picture they could actually hold in their head. A judge model compares the entries two at a time against the judge brief published with the bounty, and the best ranked sentences take the reward pool.
-
-Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
